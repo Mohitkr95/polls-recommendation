@@ -1,0 +1,7 @@
+repos:
+-   repo: local
+    hooks:
+    -   id: process-notebooks
+        name: Process Notebooks
+        entry: process_notebooks.sh
+        language: script
