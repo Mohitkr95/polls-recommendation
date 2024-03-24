@@ -1,4 +1,4 @@
-# Polls Recommendation System (MLOps Assignment)
+# Polls Recommendation System
 
 ## Overview
 
